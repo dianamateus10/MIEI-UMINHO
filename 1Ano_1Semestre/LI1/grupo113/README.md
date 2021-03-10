@@ -1,4 +1,3 @@
-A95076,Pedro Marcelo Bogas Oliveira,Pedro95076 
+Trabalho de Laboratórios de Informática
 
-A95985,Diana Ribeiro Mateus,dianamateus10 
-
+O objetivo deste projeto era a implementação em Haskell de um jogo estilo Pacman.
