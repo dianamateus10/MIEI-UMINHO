@@ -19,7 +19,7 @@ int main ()
 
         for (row=totalnrow-1; row >=1; row--)
         {
-            for (symbol=1; symbol <= row; symbol++ )
+            for (symbol=1; symbol <= row; symbol++)
                 printf ("*");
             for (dot=((2*totalnrow)-(2*row)); dot >=1 ; dot--)
                 printf (".");
