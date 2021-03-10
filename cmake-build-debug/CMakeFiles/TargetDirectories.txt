@@ -1,3 +1,0 @@
-C:/Users/diana/Desktop/MIEI-UMINHO/cmake-build-debug/CMakeFiles/MIEI_UMINHO.dir
-C:/Users/diana/Desktop/MIEI-UMINHO/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/diana/Desktop/MIEI-UMINHO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
